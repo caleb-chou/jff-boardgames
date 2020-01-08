@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FinalProject",
+            "request": "launch",
+            "mainClass": "finalproject.FinalProject",
+            "projectName": "FinalProject"
+        }
+    ]
+}
